@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leocedeno
 - 👀 I’m interested in ...instagram development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning github
+- 👌🏻 can you guys recommend cool things or apps to do with github???
 - 📫 How to reach me ...
 
 <!---
